@@ -1,0 +1,17 @@
+# Start by excluding all files.
+*
+
+# git stuff
+!.gitignore
+!.gitshrc
+
+# Shell scripts
+!get.AUDUSD.quote.v00.sh
+!get.CADUSD.quote.v00.sh
+!get.CHFUSD.quote.v00.sh
+!get.CNYUSD.quote.v00.sh
+!get.EURUSD.quote.v00.sh
+!get.GBPUSD.quote.v00.sh
+!get.NOKUSD.quote.v00.sh
+!get.XAGUSD.quote.v00.sh
+!get.XAUUSD.quote.v00.sh
